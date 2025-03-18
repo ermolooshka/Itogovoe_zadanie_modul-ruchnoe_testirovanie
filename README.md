@@ -8,4 +8,7 @@
 - чек-лист
 - тест-кейсы
 - список багов
-3. Тест-кейсы, чек-лист и баги должны быть оформлены по внутренним стандартам заказчика. (https://docs.google.com/spreadsheets/d/14LVqbdpPvL-_Ovz3wz6jDD_UsMdLo4KAvRSr25XXk68/copy)
+3. Тест-кейсы, чек-лист и баги должны быть оформлены по внутренним стандартам заказчика.
+
+
+  Выполненная работа: (https://docs.google.com/spreadsheets/d/14LVqbdpPvL-_Ovz3wz6jDD_UsMdLo4KAvRSr25XXk68/copy)
